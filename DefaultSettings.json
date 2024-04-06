@@ -1,0 +1,26 @@
+[
+    {
+        "color": "Red",
+        "instruction": "STOP!"
+    },
+    {
+        "color": "Green",
+        "instruction": "GO!"
+    },
+    {
+        "color": "Blue",
+        "instruction": "SPIN AROUND!"
+    },
+    {
+        "color": "Yellow",
+        "instruction": "SLOW DOWN!"
+    },
+    {
+        "color": "Purple",
+        "instruction": "JUMP!"
+    },
+    {
+        "color": "Pink",
+        "instruction": "DANCE!!"
+    }
+]
